@@ -22,8 +22,8 @@ The tree structure of directory:
 └── build
 │    └── 
 └── models
-     └── ssd_mobilenet_90.tflite
-     └── label_coco_90.txt
+     └── ssd_mobilenet_last_100_scratch.tflite
+     └── label_coco_94.txt
 
 ```
 change the paths in CMakeLists.txt
